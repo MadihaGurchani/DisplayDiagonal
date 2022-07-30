@@ -5,5 +5,7 @@ The function will take the value of rows and cols which are passed as argument a
 
 Example if the user enters rows and cols as 3, then the output should be like this
 1 0 0
+
 0 2 0
+
 0 0 3
